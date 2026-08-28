@@ -1,185 +1,119 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E10600,50:A70000,100:000000&height=210&section=header&text=ANDRES%20FORERO&fontSize=48&fontColor=ffffff&animation=twinkling&desc=%F0%9F%8F%8E%EF%B8%8F%20Full%20Stack%20Developer%20en%20formaci%C3%B3n%20%C2%B7%20Scuderia%20Dvskked&descSize=17&descAlignY=70" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E10600,50:A70000,100:000000&height=200&section=header&text=ANDRES%20FORERO&fontSize=46&fontColor=ffffff&animation=twinkling&desc=%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB%20Desarrollador%20de%20Software%20Full%20Stack%20%C2%B7%20Ciencia%20de%20Datos&descSize=16&descAlignY=68" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=E10600&center=true&vCenter=true&width=720&lines=%F0%9F%8F%8E%EF%B8%8F+Full+Stack+Developer+en+formaci%C3%B3n;%F0%9F%94%B4+Scuderia+Dvskked+%C2%B7+SENA+CSET+Bucaramanga;%F0%9F%90%8D+Python+%C2%B7+PHP+%C2%B7+JavaScript;%F0%9F%93%8A+An%C3%A1lisis+de+Datos+%2B+PostgreSQL;%F0%9F%8F%86+Competidor+WorldSkills;%F0%9F%8F%81+Meta%3A+construir+soluciones+que+importen)](https://github.com/Dvskked)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E10600&center=true&vCenter=true&width=760&lines=Desarrollador+Full+Stack+%C2%B7+HTML+-+CSS+-+JS+-+TS+-+PHP;An%C3%A1lisis+de+Datos+%C2%B7+Python+-+FastAPI+-+SQL;Autenticaci%C3%B3n+y+APIs+%C2%B7+MySQL+-+PostgreSQL;Competidor+WorldSkills+%C2%B7+SENA+CSET+Bucaramanga;En+b%C3%BAsqueda+de+mi+pr%C3%B3ximo+reto+profesional)](https://github.com/Dvskked)
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Pit_Wall-Portfolio-E10600?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dvskked.github.io/andres.github.io/)
-[![GitHub](https://img.shields.io/badge/Garaje-GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dvskked)
-[![Instagram](https://img.shields.io/badge/Box-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_andres.nox/)
-[![Email](https://img.shields.io/badge/Radio-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siriusplanet76@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portafolio-E10600?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dvskked.github.io/andres.github.io/)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dvskked)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_andres.nox/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/placeholder)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siriusplanet76@gmail.com)
 
 </div>
 
 ---
 
-<div align="center">
+## 👋 Hola, soy Andrés Forero
 
-### 🏁 ────────── 🏎️ ────────── 🏁
+Soy **desarrollador de software en formación** y aprendiz de **Análisis y Desarrollo de Software** en el **SENA CSET de Bucaramanga (Colombia)**, con un perfil orientado al **desarrollo web full stack** y al **análisis de datos**.
 
-</div>
+Mi objetivo es construir soluciones de software que no solo funcionen, sino que estén **bien diseñadas, sean seguras y escalables** y ofrezcan una buena experiencia de usuario. A lo largo de mi formación he desarrollado **proyectos reales** —desde aplicaciones web completas con backend y bases de datos, hasta pipelines de ciencia de datos con machine learning— y he participado en competencias técnicas como **WorldSkills**, donde aprendí a trabajar bajo presión, en equipo y con altos estándares de calidad.
 
-## 👤 El Piloto
+---
 
-<div align="center">
+## 🛠️ Skills y Tecnologías
 
-<table width="95%">
-  <tr>
-    <td width="62%" valign="top">
-
-> **📻 Radio de box:** *"Andres, caja de cambios perfecta. Sigue así."*
-
-```yaml
-piloto:        Andres Forero 🇨🇴
-escuderia:     SENA CSET Bucaramanga
-categoria:     Análisis y Desarrollo de Software
-estrategia:    Desarrollo Web Full Stack + Datos
-vuelta rápida: WorldSkills 🏆
-temporada:     Aprendiendo Python, PostgreSQL y arquitectura
-meta 2026:     Construir soluciones que importen 🏁
-```
-
-Soy aprendiz de **Análisis y Desarrollo de Software en el SENA CSET de Bucaramanga**, con enfoque sólido en el **desarrollo web full stack** y el **análisis de datos**. Mi pasión es construir interfaces que no solo se ven bien, sino que están bien estructuradas, son funcionales y brindan una experiencia de usuario excepcional.
-
-Motivado por los retos y las competencias técnicas como **WorldSkills**, donde he aprendido a trabajar bajo presión, colaborar en equipo y buscar la excelencia en cada vuelta.
-
-  </td>
-  <td width="38%" valign="middle">
+### Lenguajes
 
 <p align="center">
-  <img src="https://media.tenor.com/zs3rVsY1easAAAAM/snoopy-dancing.gif" width="240" alt="Mi copiloto Snoopy celebrando" />
-  <br><b>Mi copiloto 🐶</b>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,php,cs&perline=10" alt="HTML5, CSS3, JavaScript, TypeScript, Python, PHP, C#" />
 </p>
 
-  </td>
-  </tr>
-</table>
+### Frontend
 
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,figma&perline=8" alt="HTML, CSS, JS, TS, Bootstrap, Figma" />
+</p>
 
----
+### Backend & APIs
 
-## ⚙️ La Escudería · Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,php&perline=8" alt="Node.js, Express, Python, FastAPI, PHP" />
+</p>
 
-<div align="center">
+### Bases de Datos
 
-#### 🧠 El Motor · Lenguajes
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&perline=8" alt="MySQL, PostgreSQL, SQLite" />
+</p>
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,php,cs&perline=8" alt="HTML5, CSS3, JavaScript, Python, PHP, C#" />
-</a>
+### Data Science & ML
 
-#### 🗄️ La Caja de Cambios · Bases de datos & Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,jupyter,pandas&perline=8" alt="Python, Jupyter, Pandas, scikit-learn" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=black" />
+</p>
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,nodejs&perline=8" alt="MySQL, PostgreSQL, Node.js" />
-</a>
+### Herramientas y DevOps
 
-#### 🛠️ El Garaje · Herramientas
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,jupyter,figma&perline=8" alt="Git, GitHub, VS Code, Docker, Jupyter, Figma" />
-</a>
-
-</div>
-
----
-
-## 🏁 La Parrilla · Proyectos
-
-<div align="center">
-
-<table width="97%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🥇 P1 · ♻️ SiGiRec</h3>
-      <p><i>Sistema de Gestión de Reciclaje</i></p>
-      <p>Sistema web que organiza y recomienda información de reciclaje de forma eficiente. Proyecto de grado con enfoque en investigación.</p>
-      <p>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" />
-      </p>
-      <a href="https://github.com/Dvskked/sigirec">📦 Repositorio</a> · <a href="https://sigirecprueba.whf.bz/index.html">🌐 Demo</a><br>
-      <img src="https://img.shields.io/github/stars/Dvskked/sigirec?style=social&label=%E2%AD%90" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>🥈 P2 · 📊 Retail Analytics</h3>
-      <p><i>Análisis de datos con Python</i></p>
-      <p>Pipeline completo de ciencia de datos: generación de datos sintéticos realistas → limpieza → estadística → visualización interactiva → segmentación de clientes con K-Means y RFM.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-        <img src="https://img.shields.io/badge/Plotly-239120?style=flat-square&logo=plotly&logoColor=white" />
-        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=black" />
-      </p>
-      <a href="https://github.com/Dvskked/practica-analisisdatos-python">📦 Repositorio</a><br>
-      <img src="https://img.shields.io/github/stars/Dvskked/practica-analisisdatos-python?style=social&label=%E2%AD%90" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🥉 P3 · 🔫 Neón Letal</h3>
-      <p><i>Shooter arcade cyberpunk en tu navegador</i></p>
-      <p>Juego top-down con HTML5 Canvas puro: 10 distritos, 40 armas procedurales, combos, permadeath, partículas y sonido 100% generado con Web Audio API.</p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Canvas_HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/Web_Audio_API-009688?style=flat-square" />
-      </p>
-      <a href="https://github.com/Dvskked/jueganho">📦 Repositorio</a><br>
-      <img src="https://img.shields.io/github/stars/Dvskked/jueganho?style=social&label=%E2%AD%90" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>P4 · 🐘 Aprendiendo BD</h3>
-      <p><i>Curso práctico de PostgreSQL + Docker</i></p>
-      <p>Curso progresivo de bases de datos relacionales: JOINs, CTEs recursivas, funciones ventana, triggers, transacciones ACID e índices. Entorno reproducible con Docker.</p>
-      <p>
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/SQL-DD0031?style=flat-square" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      </p>
-      <a href="https://github.com/Dvskked/aprendiendo-bd">📦 Repositorio</a><br>
-      <img src="https://img.shields.io/github/stars/Dvskked/aprendiendo-bd?style=social&label=%E2%AD%90" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>P5 · 🎮 Sintetic</h3>
-      <p><i>Gestión de equipos</i></p>
-      <p>Aplicación web para gestionar usuarios de un equipo, organizarlos en grupos y llevar control de participantes.</p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-      </p>
-      <a href="https://github.com/Dvskked/sintetic">📦 Repositorio</a> · <a href="https://dvskked.github.io/sintetic/">🌐 Demo</a><br>
-      <img src="https://img.shields.io/github/stars/Dvskked/sintetic?style=social&label=%E2%AD%90" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>P6 · 🎲 Calculadora de Bandidaje</h3>
-      <p><i>Cuestionario dinámico · JS puro</i></p>
-      <p>Proyecto personal enfocado en lógica de programación y diversión: cuestionario interactivo que calcula tu nivel de "bandido" con JavaScript vanilla.</p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-      </p>
-      <a href="https://github.com/Dvskked/bandidaje.github.io">📦 Repositorio</a> · <a href="https://dvskked.github.io/bandidaje.github.io/">🌐 Demo</a><br>
-      <img src="https://img.shields.io/github/stars/Dvskked/bandidaje.github.io?style=social&label=%E2%AD%90" />
-    </td>
-  </tr>
-</table>
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman&perline=8" alt="Git, GitHub, VS Code, Docker, Postman" />
+</p>
 
 ---
 
-## 📡 Telemetría · GitHub Stats
+## 🚀 Proyectos destacados
+
+### 💼 Aplicaciones Full-Stack
+
+| Proyecto | Descripción | Stack |
+| --- | --- | --- |
+| [**SiGiRec**](https://github.com/Dvskked/sigirec) · [Demo](https://sigirecprueba.whf.bz/index.html) | Sistema de gestión inteligente de reciclaje con detección de botellas PET por IA (YOLOv8), sistema de puntos y catálogo de canje. Proyecto de grado con enfoque en investigación. | HTML, CSS, JS, PHP, MySQL, YOLOv8 |
+| [**Finanzas AF**](https://github.com/Dvskked/finanzas-andresforero) | Aplicación web full-stack de finanzas personales con arquitectura limpia por capas, autenticación segura (bcrypt), dashboard y **predicción de gastos con Machine Learning** (LinearRegression + detección de anomalías con Z-Score). 145+ tests automatizados. | Python, FastAPI, MySQL, Pandas, scikit-learn, JS |
+| [**InventoryFlow**](https://github.com/Dvskked/inventory-system) | Sistema completo de gestión de inventarios y ventas (POS) con arquitectura MVC, autenticación, protección CSRF y tests con PHPUnit. | PHP 8.1, MySQL, MVC, PHPUnit |
+| [**DevForge**](https://github.com/Dvskked/devforge) | Plataforma multi-lenguaje con arquitectura de microservicios: APIs REST (Python, Node.js, PHP), CLI en Go y dashboard en tiempo real, todo orquestado con Docker y CI/CD. | Python, Node.js, PHP, Go, Docker, GitHub Actions |
+
+### 📊 Ciencia de Datos
+
+| Proyecto | Descripción | Stack |
+| --- | --- | --- |
+| [**Retail Analytics**](https://github.com/Dvskked/practica-analisisdatos-python) | Pipeline completo de ciencia de datos: generación de datos sintéticos → limpieza → estadística → visualización → **segmentación de clientes con K-Means y RFM**. | Python, Pandas, Plotly, scikit-learn |
+
+### 🌐 Frontend & Aplicaciones Web
+
+| Proyecto | Descripción | Stack |
+| --- | --- | --- |
+| [**PetCare Pro**](https://github.com/Dvskked/petcarebro) | Sistema de gestión y cuidado de mascotas con dashboard, CRUD, modo oscuro, búsqueda global y export a CSV. | HTML, CSS, JS (ES6) |
+| [**Sintetic**](https://github.com/Dvskked/sintetic) · [Demo](https://dvskked.github.io/sintetic/) | Aplicación para gestionar usuarios de un equipo, organizarlos en grupos y controlar participantes. | HTML, CSS, JS |
+| [**FocusFlow**](https://github.com/Dvskked/focusflow) | App **Pomodoro + lista de tareas** con persistencia en LocalStorage, **PWA offline** (Service Worker) y accesibilidad. | HTML, CSS, JS, PWA |
+| [**Portafolio**](https://github.com/Dvskked/andres.github.io) · [Live](https://dvskked.github.io/andres.github.io/) | Mi portafolio personal con diseño dark glassmorphism, animaciones y descarga de CV y certificados. | HTML, CSS, JS |
+
+### 🎮 Juegos
+
+| Proyecto | Descripción | Stack |
+| --- | --- | --- |
+| [**Neón Letal**](https://github.com/Dvskked/jueganho) | Shooter arcade cyberpunk top-down con HTML5 Canvas: 10 distritos, 40 armas procedurales, combos y sonido generado con Web Audio API. | JavaScript, Canvas, Web Audio API |
+
+### 📚 Cursos educativos (contenido abierto)
+
+He creado y publicado **cursos completos y gratuitos** en formato de aplicación web interactiva, abarcando las tecnologías que domino:
+
+| Curso | Descripción |
+| --- | --- |
+| [**Curso de TypeScript**](https://github.com/Dvskked/curso-typescript) | 10 módulos, 82 lecciones y 5 proyectos prácticos: de cero a nivel profesional. |
+| [**Curso de PHP**](https://github.com/Dvskked/curso-php) | PHP moderno 8, backend, bases de datos con PDO, APIs REST y MVC. |
+| [**Curso de JavaScript**](https://github.com/Dvskked/curso-js) | JavaScript moderno (ES6+), DOM, asincronía, POO y Web APIs. |
+| [**Curso de HTML y CSS**](https://github.com/Dvskked/curso-web) | HTML semántico, Flexbox, Grid, responsive y animaciones. |
+| [**Aprendiendo BD**](https://github.com/Dvskked/aprendiendo-bd) | Curso práctico de PostgreSQL + Docker: JOINs, CTEs, funciones ventana, triggers y transacciones ACID. |
+
+---
+
+## 📈 GitHub Stats
 
 <div align="center">
 
@@ -193,77 +127,33 @@ Motivado por los retos y las competencias técnicas como **WorldSkills**, donde 
 
 <br><br>
 
-<img height="140" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dvskked&theme=github_dark" alt="Lenguajes con más commits" />
-<img height="140" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dvskked&theme=github_dark" alt="Horas productivas" />
-
-<br><br>
-
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dvskked&bg_color=0d1117&color=c9d1d9&line=E10600&point=FFD700&area=true&area_color=A70000&hide_border=true" alt="Gráfica de actividad" />
 
-<br><br>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote aleatoria" />
-
 </div>
 
 ---
 
-## 🐶 Box Box Box · Mi Copiloto
+## 🎓 Formación y Certificaciones
 
-<div align="center">
-
-<table width="85%">
-  <tr>
-    <td width="40%" valign="middle">
-
-<p align="center">
-  <img src="https://media.tenor.com/yb6I9LlrRXoAAAAM/snoopy-happy-dance-gif.gif" width="230" alt="Snoopy happy dance" />
-</p>
-
-  </td>
-  <td width="60%" valign="top" align="left">
-
-### Snoopy, piloto de la Primera Guerra Mundial 🛩️
-
-Igual que **Snoopy** persigue al **Barón Rojo** en su dogfight legendario, yo persigo cada día ese **tiempo por vuelta perfecto** en el código:
-
-- 🔴 **Curva 1:** HTML/CSS bien estructurados
-- 🔴 **Curva 2:** JavaScript sin derrapes
-- 🔴 **Curva 3:** Backend sólido y seguro
-- 🏁 **Recta final:** datos limpios y decisiones con sentido
-
-*"¡Maldito Barón Rojo!… pero mañana vuelvo a despegar."* ✈️
-
-  </td>
-</tr>
-</table>
-
-<br>
-
-<img src="https://media.tenor.com/qPT21wrcrMoAAAAM/scuderia-ferrari-f1.gif" width="320" alt="Scuderia Ferrari" />
-
-</div>
-
----
-
-## 🎓 Licencias y Podios
-
-<div align="center">
-
-**Superlicencia 🪪**
-
-- 🏎️ **Análisis y Desarrollo de Software** — SENA CSET Bucaramanga *(en curso)*
+- 🏎️ **Tecnólogo en Análisis y Desarrollo de Software** — SENA CSET Bucaramanga *(en curso)*
 - 🤖 **Robótica Educativa** — LEGO Education
-- 🏆 **Formación por Competencias** — WorldSkills / Procesos Competitivos
+- 🏆 **Formación por Competencias Técnicas** — WorldSkills / Procesos Competitivos
+- 🥇 **Certificación en Python**
+- 🥇 **Certificado en Medios Audiovisuales**
+- 🏅 **Semilleros de Investigación** — Participación en encuentros regionales
+- 🏅 **Estructuración de Proyectos de Investigación**
 
-**Podios 🏅**
+---
 
-- 🥇 Certificado en Medios Audiovisuales
-- 🥇 Certificación en Python
-- 🏁 Participación en WorldSkills
-- 🏁 1er Encuentro Semilleros de Investigación
-- 🏁 2do Encuentro Semilleros Regional
-- 🏁 Estructuración de Proyectos de Investigación
+## 📬 Contacto
+
+Estoy abierto a nuevas oportunidades, colaboraciones y retos profesionales. Si te interesa mi perfil o tienes una oportunidad, ¡conversemos!
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-siriusplanet76%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siriusplanet76@gmail.com)
+[![Portafolio](https://img.shields.io/badge/Portafolio-dvskked.github.io-E10600?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dvskked.github.io/andres.github.io/)
+[![GitHub](https://img.shields.io/badge/GitHub-github.com%2FDvskked-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dvskked)
 
 </div>
 
@@ -271,22 +161,22 @@ Igual que **Snoopy** persigue al **Barón Rojo** en su dogfight legendario, yo p
 
 <div align="center">
 
-## 💬
-
-### *"No quiero solo aprender a programar.<br>Quiero construir soluciones que importen."*
-
-**— Andres Forero · Scuderia Dvskked 🔴**
+> *"No quiero solo aprender a programar. Quiero construir soluciones que importen."*
+>
+> **— Andrés Forero**
 
 <br>
 
-<img src="https://media.tenor.com/EsfZ2mf2YQoAAAAM/snoopy-esnupi.gif" width="200" alt="Snoopy" />
+<img src="https://media.tenor.com/EsfZ2mf2YQoAAAAM/snoopy-esnupi.gif" width="160" alt="Snoopy" />
+
+<sub>**Mi copiloto 🐶** me recuerda que cada día es un nuevo dogfight: persistir hasta la meta.</sub>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:A70000,100:E10600&height=120&section=footer&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:A70000,100:E10600&height=110&section=footer&animation=twinkling" />
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Dvskked&color=red&style=for-the-badge&label=%F0%9F%91%80+VISITAS+AL+BOX" alt="Contador de visitas" />
+<img src="https://komarev.com/ghpvc/?username=Dvskked&color=red&style=for-the-badge&label=%F0%9F%91%80+VIITAS" alt="Contador de visitas" />
 
 </div>

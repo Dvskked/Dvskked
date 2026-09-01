@@ -4,6 +4,8 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-E10600?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dvskked.github.io/andres.github.io/) [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dvskked) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/placeholder) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siriusplanet76@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_andres.nox/)
 
+![Profile views](https://komarev.com/ghpvc/?username=Dvskked&style=flat-square&color=E10600&label=VISITAS%20AL%20PERFIL)
+
 </div>
 
 ---
@@ -14,7 +16,15 @@ Desarrollador de software en formacion en **Analisis y Desarrollo de Software** 
 
 Actualmente lidero el equipo **Sigidevs** como PM y Backend developer en **SigiRec**, un sistema de gestion de reciclaje inteligente con computer vision (YOLOv8) que es mi proyecto de grado. Mi stack principal gira alrededor de Python, bases de datos y APIs, pero no me limito a un solo lenguaje -- resuelvo el problema con la mejor herramienta disponible.
 
-<br/>
+<div align="center">
+
+### Stack visual
+
+![Python](https://skillicons.dev/icons?i=python,flask,fastapi) ![JS/TS](https://skillicons.dev/icons?i=javascript,typescript,nodejs) ![PHP](https://skillicons.dev/icons?i=php,html,css) ![DB](https://skillicons.dev/icons?i=mysql,postgresql,sqlite) ![AI/ML](https://skillicons.dev/icons?i=tensorflow,opencv) ![DevOps](https://skillicons.dev/icons?i=docker,git,githubactions) ![Tools](https://skillicons.dev/icons?i=vscode,postman,linux) ![Extra](https://skillicons.dev/icons?i=rust,go,electron)
+
+</div>
+
+---
 
 <div align="center">
 

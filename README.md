@@ -12,7 +12,7 @@
 
 ## Hola, soy Andres Forero
 
-Desarrollador de software en formacion en **Analisis y Desarrollo de Software** en el **SENA CSET de Bucaramanga (Colombia)**. Mi enfoque es construir soluciones full stack con impacto real: desde sistemas de gestion con IA hasta herramientas de analisis de datos y aplicaciones de produccion.
+Desarrollador de software de **Ingenieria en Sistemas & Software** en la **SUDI**. Mi enfoque es construir soluciones full stack con impacto real: desde sistemas de gestion con IA hasta herramientas de analisis de datos y aplicaciones de produccion.
 
 Actualmente lidero el equipo **Sigidevs** como PM y Backend developer en **SigiRec**, un sistema de gestion de reciclaje inteligente con computer vision (YOLOv8) que es mi proyecto de grado. Mi stack principal gira alrededor de Python, bases de datos y APIs, pero no me limito a un solo lenguaje -- resuelvo el problema con la mejor herramienta disponible.
 

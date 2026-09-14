@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:A70000,50:E10600,100:000000&height=200&section=header&text=ANDRES%20FORERO&fontSize=46&fontColor=ffffff&fontAlignY=35&desc=Desarrollador%20de%20Software%20%7C%20Full%20Stack%20%7C%20AI%20%7C%20Data&descSize=16&descAlignY=55&animation=twinkling)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-E10600?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dvskked.github.io/andres.github.io/) [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dvskked) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/placeholder) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siriusplanet76@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_andres.nox/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-E10600?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dvskked.github.io/andres.github.io/) [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dvskked) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siriusplanet76@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_andres.nox/)
 
 ![Profile views](https://komarev.com/ghpvc/?username=Dvskked&style=flat-square&color=E10600&label=VISITAS%20AL%20PERFIL)
 
@@ -12,15 +12,15 @@
 
 ## Hola, soy Andres Forero
 
-Desarrollador de software de **Ingenieria en Sistemas & Software** en la **SUDI**. Mi enfoque es construir soluciones full stack con impacto real: desde sistemas de gestion con IA hasta herramientas de analisis de datos y aplicaciones de produccion.
+Desarrollador de software en formacion en **Analisis y Desarrollo de Software** en el **SENA CSET de Bucaramanga (Colombia)**. Mi enfoque es construir soluciones full stack con impacto real: desde sistemas de gestion con IA hasta herramientas de analisis de datos y aplicaciones de produccion.
 
-Actualmente lidero el equipo **Sigidevs** como PM y Backend developer en **SigiRec**, un sistema de gestion de reciclaje inteligente con computer vision (YOLOv8) que es mi proyecto de grado. Mi stack principal gira alrededor de Python, bases de datos y APIs, pero no me limito a un solo lenguaje -- resuelvo el problema con la mejor herramienta disponible.
+Actualmente lidero el equipo **Sigidevs** como PM y Backend developer en **Atlas**, un sistema de gestion de reciclaje inteligente con computer vision (YOLOv8) que es mi proyecto de grado. Mi stack principal gira alrededor de Python, bases de datos y APIs, pero no me limito a un solo lenguaje -- resuelvo el problema con la mejor herramienta disponible.
 
 <div align="center">
 
 ### Stack visual
 
-![Python](https://skillicons.dev/icons?i=python,flask,fastapi) ![JS/TS](https://skillicons.dev/icons?i=javascript,typescript,nodejs) ![PHP](https://skillicons.dev/icons?i=php,html,css) ![DB](https://skillicons.dev/icons?i=mysql,postgresql,sqlite) ![AI/ML](https://skillicons.dev/icons?i=tensorflow,opencv) ![DevOps](https://skillicons.dev/icons?i=docker,git,githubactions) ![Tools](https://skillicons.dev/icons?i=vscode,postman,linux) ![Extra](https://skillicons.dev/icons?i=rust,go,electron)
+![Python](https://skillicons.dev/icons?i=python,flask,fastapi) ![JS/TS](https://skillicons.dev/icons?i=javascript,typescript,nodejs) ![DB](https://skillicons.dev/icons?i=mysql,postgresql) ![AI](https://skillicons.dev/icons?i=opencv,tensorflow) ![Tools](https://skillicons.dev/icons?i=docker,git)
 
 </div>
 
@@ -72,18 +72,20 @@ Actualmente lidero el equipo **Sigidevs** como PM y Backend developer en **SigiR
 <tr>
 <td width="100%">
 
-#### [SigiRec](https://github.com/Dvskked/sigirec) -- Sistema de Gestion Inteligente de Reciclaje
+#### [Atlas](https://github.com/Dvskked/Atlas) -- Sistema de Gestion Inteligente de Reciclaje
 
-![AI](https://img.shields.io/badge/AI-YOLOv8-E10600?style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![AI](https://img.shields.io/badge/AI-YOLOv8-E10600?style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-Sistema de gestion de reciclaje inteligente con deteccion de botellas PET por IA. El usuario escanea una botella, la red neuronal identifica botella + tapa + etiqueta, y asigna **SIGIPUNTOS** automaticamente. Incluye panel administrativo, catalogo de canje, comprobantes y auditoria completa. **Proyecto de grado con enfoque en investigacion.**
+Sistema de gestion de reciclaje inteligente con deteccion de botellas PET por IA. El usuario escanea una botella, la red neuronal identifica botella + tapa + etiqueta, y asigna **AtlasPuntos** automaticamente. Incluye app de escritorio (Electron + Flask), app web de usuario via QR, panel administrativo, catalogo de canje, comprobantes y auditoria completa. **Proyecto de grado con enfoque en investigacion.**
 
-- **Deteccion IA**: YOLOv8n entrenado con dataset propio (100 epocas) -- detecta botella, tapa y etiqueta
-- **Sistema de puntos**: 50 base + 10 tapa + 5 etiqueta, con historial y comprobantes automaticos
+- **Deteccion IA**: YOLOv8n entrenado con dataset propio -- detecta botella, tapa y etiqueta
+- **Sistema de puntos**: 50 base + 10 tapa + 5 etiqueta, con historial y comprobantes automaticos (ATLA-XXXXXX)
+- **App de escritorio**: Electron + Flask que controla la maquina de reciclaje y realiza el escaneo inteligente
+- **App de usuario**: acceso por QR, dashboard con saldo, clasificacion y gestion de cuenta
 - **Roles**: Usuario, Administrador -- con control de acceso por sesion
-- **Panel admin**: Gestion de usuarios, puntos, catalogo y auditoria de acciones
-- **Despliegue**: Render (Web Service + gunicorn) con MySQL gestionada
-- **Equipo**: SigiDev's (5 integrantes) -- yo como PM y Backend
+- **Panel admin**: Gestion de usuarios, puntos, catalogo, canjes y auditoria de acciones
+- **Despliegue**: Render (Web Service + gunicorn) con MySQL gestionada en Clever Cloud
+- **Equipo**: SigiDev's -- yo como PM y Backend
 
 </td>
 </tr>

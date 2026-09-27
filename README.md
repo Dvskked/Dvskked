@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:A70000,50:E10600,100:000000&height=200&section=header&text=ANDRES%20FORERO&fontSize=46&fontColor=ffffff&fontAlignY=35&desc=Desarrollador%20de%20Software%20%7C%20Full%20Stack%20%7C%20AI%20%7C%20Data&descSize=16&descAlignY=55&animation=twinkling)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-E10600?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dvskked.github.io/andres.github.io/) [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dvskked) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siriusplanet76@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_andres.nox/)
+(https://dvskked.github.io/andres.github.io/) [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dvskked) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siriusplanet76@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_andres.nox/)
 
 ![Profile views](https://komarev.com/ghpvc/?username=Dvskked&style=flat-square&color=E10600&label=VISITAS%20AL%20PERFIL)
 

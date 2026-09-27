@@ -194,7 +194,7 @@ Cursos completos y gratuitos en formato de aplicacion web interactiva:
 
 Abierto a nuevas oportunidades, colaboraciones y retos profesionales.
 
-[![Email](https://img.shields.io/badge/Email-siriusplanet76%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siriusplanet76@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-Dvskked-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dvskked) [![Portafolio](https://img.shields.io/badge/Portafolio-dvskked.github.io-E10600?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dvskked.github.io/andres.github.io/)
+[![Email](https://img.shields.io/badge/Email-siriusplanet76%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siriusplanet76@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-Dvskked-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dvskked) 
 
 ---
 

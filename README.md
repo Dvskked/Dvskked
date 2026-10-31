@@ -10,7 +10,7 @@
 
 ---
 
-## Hola, soy Andres Forero
+## Hola, soy Andres
 
 Desarrollador de software en formacion en **Analisis y Desarrollo de Software** en la universidad de investigación y desarrollo**. Mi enfoque es construir soluciones full stack con impacto real: desde sistemas de gestion con IA hasta herramientas de analisis de datos y aplicaciones de produccion.
 

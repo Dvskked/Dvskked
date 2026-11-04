@@ -15,7 +15,7 @@
 
 ## Sobre mí
 
-Soy **Andres**, estudiante de la Universidad de Investigación y Desarrollo (UDI) y desarrollador de software interesado en la tecnología, la investigación y la innovación.
+Soy **Andressinho**, estudiante de la Universidad de Investigación y Desarrollo (UDI) y desarrollador de software interesado en la tecnología, la investigación y la innovación.
 
 Fui aprendiz del **SENA**, donde participé en competencias y escenarios de investigación regionales y nacionales. Aunque no culminé mi formación tecnológica por circunstancias personales, esa experiencia fue fundamental en mi crecimiento.
 
